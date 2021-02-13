@@ -1,0 +1,7 @@
+/opt/jenkinsmavenwar/src/main/java/jenkinswar/util/Resources.java
+/opt/jenkinsmavenwar/src/main/java/jenkinswar/rest/JaxRsActivator.java
+/opt/jenkinsmavenwar/src/main/java/jenkinswar/rest/MemberService.java
+/opt/jenkinsmavenwar/src/main/java/jenkinswar/util/JSONPRequestFilter.java
+/opt/jenkinsmavenwar/src/main/java/jenkinswar/data/MemberRepository.java
+/opt/jenkinsmavenwar/src/main/java/jenkinswar/service/MemberRegistration.java
+/opt/jenkinsmavenwar/src/main/java/jenkinswar/model/Member.java

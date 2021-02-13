@@ -1,0 +1,10 @@
+jenkinswar/util/JSONPRequestFilter.class
+jenkinswar/data/MemberRepository.class
+jenkinswar/rest/MemberService.class
+jenkinswar/service/MemberRegistration.class
+jenkinswar/model/Member.class
+jenkinswar/util/JSONPRequestFilter$1$1.class
+jenkinswar/rest/JaxRsActivator.class
+jenkinswar/util/Resources.class
+jenkinswar/model/Member_.class
+jenkinswar/util/JSONPRequestFilter$1.class
